@@ -1,0 +1,15 @@
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\DAL\bin\Debug\net6.0\ToolBox.dll
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\DAL\bin\Debug\net6.0\ToolBox.pdb
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\DAL\obj\Debug\net6.0\ref\DAL.dll

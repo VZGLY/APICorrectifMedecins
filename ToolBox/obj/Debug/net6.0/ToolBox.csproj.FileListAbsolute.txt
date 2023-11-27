@@ -1,0 +1,12 @@
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\ToolBox\bin\Debug\net6.0\ToolBox.deps.json
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\ToolBox\bin\Debug\net6.0\ToolBox.dll
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\ToolBox\bin\Debug\net6.0\ToolBox.pdb
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\ToolBox\obj\Debug\net6.0\ToolBox.csproj.AssemblyReference.cache
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\ToolBox\obj\Debug\net6.0\ToolBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\ToolBox\obj\Debug\net6.0\ToolBox.AssemblyInfoInputs.cache
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\ToolBox\obj\Debug\net6.0\ToolBox.AssemblyInfo.cs
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\ToolBox\obj\Debug\net6.0\ToolBox.csproj.CoreCompileInputs.cache
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\ToolBox\obj\Debug\net6.0\ToolBox.dll
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\ToolBox\obj\Debug\net6.0\refint\ToolBox.dll
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\ToolBox\obj\Debug\net6.0\ToolBox.pdb
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\ToolBox\obj\Debug\net6.0\ref\ToolBox.dll
