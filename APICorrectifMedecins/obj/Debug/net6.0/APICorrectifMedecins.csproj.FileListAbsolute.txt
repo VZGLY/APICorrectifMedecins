@@ -71,3 +71,4 @@ C:\Users\BStormGavin\source\repos\APICorrectifMedecins\APICorrectifMedecins\obj\
 C:\Users\BStormGavin\source\repos\APICorrectifMedecins\APICorrectifMedecins\obj\Debug\net6.0\APICorrectifMedecins.pdb
 C:\Users\BStormGavin\source\repos\APICorrectifMedecins\APICorrectifMedecins\obj\Debug\net6.0\APICorrectifMedecins.genruntimeconfig.cache
 C:\Users\BStormGavin\source\repos\APICorrectifMedecins\APICorrectifMedecins\obj\Debug\net6.0\ref\APICorrectifMedecins.dll
+C:\Users\BStormGavin\source\repos\APICorrectifMedecins\APICorrectifMedecins\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

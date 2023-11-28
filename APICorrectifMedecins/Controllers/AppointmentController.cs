@@ -3,6 +3,7 @@ using BLL.Models.DTO;
 using BLL.Models.Forms;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 
 namespace APICorrectifMedecins.Controllers
 {
@@ -35,6 +36,27 @@ namespace APICorrectifMedecins.Controllers
         public ActionResult<IEnumerable<AppointmentDTO>> GetByDoctor(int id) 
         {
           
+            return Ok(_appointmentService.GetByDoctor(id));
+        }
+
+        [HttpGet("doctor")]
+        public ActionResult<IEnumerable<AppointmentDTO>> GetByDoctor()
+        {
+
+            var docClaims = User.Claims;
+
+            string docId = docClaims.Single(x => x.Type == ClaimTypes.NameIdentifier).Value;
+
+            
+
+            if (docId is null)
+            {
+                return NotFound();
+            }
+
+            int id;
+            id = Convert.ToInt32(docId);
+
             return Ok(_appointmentService.GetByDoctor(id));
         }
 
