@@ -41,6 +41,17 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
     };
 });
 
+
+builder.Services.AddCors(option =>
+{
+    option.AddPolicy("default", policyOptions =>
+    {
+        policyOptions.AllowAnyOrigin();
+        policyOptions.AllowAnyHeader();
+        policyOptions.AllowAnyMethod();
+    });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -57,6 +68,8 @@ app.UseHttpsRedirection();
 app.UseAuthentication();
 
 app.UseAuthorization();
+
+app.UseCors("default");
 
 app.UseEndpoints(endpoints =>
 {
